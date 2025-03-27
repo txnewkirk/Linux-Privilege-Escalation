@@ -1,5 +1,4 @@
-# Linux-Privilege-Escalation
-Dirty COW Privilege Escalation Exploit
+# Dirty COW Privilege Escalation Exploit
 
 Overview
 
